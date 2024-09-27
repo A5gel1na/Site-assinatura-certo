@@ -89,3 +89,19 @@ body {
 .descricao__texto {
     color: var(--cinza-secundario);
 }
+
+.container__botaosecundario__botao {
+    background-color: var(--botao-azul);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--branco-principal);
+    display: inline-block;
+    margin-top: 1em;
+    text-decoration: none;
+    margin-bottom: 1em;
+}
+
+.container__descricao {
+    padding: 2em;
+
+}
